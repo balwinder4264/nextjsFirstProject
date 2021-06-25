@@ -17,7 +17,7 @@ const HomePage = ()=>{
 />
             </li>
             <li>
-                Second Row
+                Balwinder Row
             </li>
             <li>
                  third Row
