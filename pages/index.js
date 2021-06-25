@@ -20,7 +20,7 @@ const HomePage = ()=>{
                 Balwinder Row
             </li>
             <li>
-                 third Row
+                 Singh Row
             </li>
         </ul>
     </Fragment> 
